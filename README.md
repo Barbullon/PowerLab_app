@@ -10,7 +10,7 @@ You ar now good to go !!
 <html lang="fr">
 <head></head>
 <body text="white" style="background-color:#121212;">
-<h1 style="color:lightgrey; font-size: 16px">Welcome to Power Lab, Your New Climbing Companion!</h1>
+<h4 style="color:lightgrey; font-size: 16px">Welcome to Power Lab, Your New Climbing Companion!</h4>
 <h4 style="color:lightgrey; font-size: 14px">Are you ready to take your training experience to the next level? Whether you're an elite climber or just starting your climbing journey, this app is here to assist you in reaching new heights !</h4>
 <strong style="color:lightgrey; font-size: 13px">What we do ?</strong>
 <p style="color:lightgrey; font-size: 13px"> Our app is designed to provide you with the most accurate and valuable data for your climbing workouts. By utilizing your smartphone, we can precisely track your movements, and give you insights into your performances. This data-driven approach will enable you to make informed decisions about your training, set realistic goals, and see tangible improvements in your climbing performance over time.</p>

@@ -1,0 +1,50 @@
+
+Welcome to Power Lab – Your Ultimate Climbing Companion!
+
+Are you ready to take your climbing experience to the next level?
+Whether you're an elite climber or just starting your climbing journey, this app is here to assist you in
+reaching new heights (literally)!
+
+What We Do:
+
+	Our app is designed to provide you with the most accurate and valuable data for your
+	climbing workouts.
+	By utilizing your smartphone, we can precisely track your movements, and give you insights
+	into your performances.
+	This data-driven approach will enable you to make informed decisions about your training,
+	set realistic goals, and see tangible improvements in your climbing performance over time.
+
+Key Features:
+
+	Data Aquisition: Get precise measurement of your power capacities.
+	Data Analysis: Get detailed information on your pull-up exercises, including power loss, 
+	peak power,force, velocity etc..
+
+Why power matters in climbing:
+
+	Climbing is a demanding sport that require to pull your weight up. 
+	For this purpose, your muscle will contract to generate motion.
+	Power is your ability to generate high force during a rapid motion. 
+	In other words, it measures your capacity to be both strong and fast.
+	This capacity is essential for making dynamic and explosive moves to overcome the crux of
+	"Not dead but bien raide" located in La Roche aux Cros.
+
+How to Get Started:
+
+	To get your results, you should follow three steps:
+
+	1: Set up your smartphone
+	2: Choose your testing method and give it all
+	3: Get your results using this app 
+
+	You will find the detailed information about each of these steps in the corresponding 
+	section of the app.
+
+We're Here for You:
+
+	If you ever have questions, advices, encounter issues, or simply need a belayer, feel
+	free to reach out to us. Your feedback helps us make this app even better!
+
+Contact:
+	Célestin Vallat
+	Email : vallatce@gmail.com

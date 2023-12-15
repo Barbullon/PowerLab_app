@@ -1,0 +1,46 @@
+3. Score interpretation 
+
+Peak power shows your ability to deliver a certain amount of energy over time.
+A high peak power is obtained if your muscle can generate a lot of energy during a small time interval.
+Peak power can also be seen as the optimum point between velocity and force production.
+
+ Muscle can counter a high resistance with low velocity motion or generate high velocity motion with a low resistance resistance.
+And there is a point between these two cases where the muscle are able to release energy very efficiently.
+This point is approximatively at mid max force and mid max velocity motion. In other word, paek power measure
+a combination of velocity and force capacity of an athlete in a single score. This score can be improved by increasing
+velocity capacities, strenght capactites or both.
+
+Mean power is directly related to the height the athlete can reach. 
+
+
+First metrics is the worked you produced through the whole test. this represent the whole tank of energy you 
+lost doing the test. When this tank is empty, you can't pull your weight up anymore. Having a big tank is a
+important metric of performance.
+
+This energy expenditure is divided between each of your rep. For each rep, the lost energy  is proportional to your maximum
+displacement (Energy by rep = gravity(9.81)*max_displacment).
+The total energy tank can be seen as the energy to put you weight up in a distance equals to the sum of each pulling vertical displacment.
+
+Now that you know what is your energy tank. You have to know how you used it during your pull up.
+let's say you still have enough energy in your tank to finish a pull-up.
+The variation of the energy you spend over time is called power.
+It can be seen as how fast you can empty your tank of energy.
+If your tank have large neck,you will be able to empty it very quick. If you have a small one,
+very slowly. Power can be seen as the size of the neck of your tank.
+In both cases, your reservoir will empty by the same amount at the end 
+of the pull-up, but one make it slowly, and the other quickly.
+
+In a same way powerful climber will be able to execute a pull up faster than less powerful ones.
+This is why explosive pull-up or fast motion in general require high power. In climbing, an examlbe of thi is dyno.
+Goal is to create max velocity during pulling phase from rested position
+to the moment you leave the wall. The more power, the more energy you will be able to spend when you are on the the wall, 
+the higher you get.
+
+
+
+The metrics that reflects your capacity to spend energy quickly are peak power and mean_power during pull up.
+Peak p
+
+Once your are fatigue, this capacity to empty your tank quickly will decrease. Power endurance
+
+

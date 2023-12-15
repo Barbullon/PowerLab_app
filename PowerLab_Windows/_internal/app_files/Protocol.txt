@@ -1,0 +1,55 @@
+2. Testing protocols
+
+For each test:
+	
+	Starting position is a motionless position, hanging at full elbow extension from jug
+	holds or a bar. Before the first pull-up, it is important to hang with minimal motion for
+	2 seconds.
+
+Peak power test protocol:
+
+	Perform an explosive pull-up and release both hands to slap the wall above you as high as you can.
+	Focus on the ascent phase.
+	You are allowed to use legs and hips and a small swing as you are used to do in your training.
+	If you want to repeat the test, make sure to get enough rest (at least 3 min).
+	If you are not able to release your hands from the holds,try to pusue your movement as high as possible
+	without stoping once your chin is at the level your handholds.
+	If you can't make a complete pull-up, you can use the help of a rubber band to pull you up. But make sure
+	to keep this help in mind when you interpret the results.
+
+	The first score of the test is your peak power capacity.
+	The second of the test is based on the maximum height you can reach with both of your
+	hand.
+
+Power endurance test protocol:
+
+	Each repetition is an explosive pull-up at maximum effort. Focus your power on the 
+	rising phase,the descent phase can be slow but have to be complete (until full elbow
+	extension).
+
+	After each repetition, rest for 2 seconds, grab the bar and hang still for 1 second
+	then proceed to the next repetition.
+
+	Once you can't put your chin over the bar anymore, you are done.
+
+	score: mean power end/mean power start
+	plot: power/power max
+	plateau critical power ? total work up plateau W'
+	w' effort which has a time limit, tank of energy limited in time
+	vbar_stack in bokeh
+
+
+Endurance test protocol:
+	Max pullup full amplitude no time limit 
+	
+	score: nb pull up
+	total work stacked bar
+	power curve
+	high number of pullup with low work is good
+	measure of efficiency two athletes with same total work, better is the one with more pullup
+	?eneregtic efficiency minimum work = mgh efficency = pulling on rep work/mgh
+	mean power during the rep. rep until dmax
+	
+
+  
+

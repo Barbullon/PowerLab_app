@@ -1,4 +1,4 @@
-# PowerLab application
+# Power Lab 
 
 ## Download the App
 * To dowload the app, <a href="https://github.com/Barbullon/PowerLab_app/releases">click here </a> and download the zip file from the assets.

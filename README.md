@@ -24,7 +24,6 @@
     <li>Get your results using this application. </li>
   </ol> 
 <p style="color:lightgrey; font-size: 13px"> Each step is described more precisely in the corresponding section of the application. Be sure to read these explanations before using the app.</p>
-<p><img src="_internal/app_files/user.png" width="800" height="200"/></p>
 
 <strong style="color:lightgrey; font-size: 13px">Scientific References</strong>
 <p style="color:lightgrey; font-size: 13px">The app is enriched with inputs from scientific publications. Users can explore the "Scientific Reference" in the "Score Interpretation" section for a comprehensive list of studies and papers that have informed the development of this application. We are dedicated to delivering a platform grounded in the findings of rigorous research within the domain of climbing and performance. Many of our reference scores are sourced from public charts published by "Smartboard climbing". Don't hesitate to check out the company for more info! </p>

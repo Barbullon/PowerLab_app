@@ -1,4 +1,12 @@
 # PowerLab_app
+
+## Download the App
+To dowload the app, click here <a href="https://github.com/Barbullon/PowerLab_app/tags">Tag link </a> and download the zip file of the latest release.
+Once downloaded, paste the folder in your "C:\Program Files" of "C:\Program Files (x86)" folder.
+Right click on the "Power Lab.exe" file and "create a shortcut" on your desktop.
+You ar now good to go !!
+
+## About
 <html lang="fr">
 <head></head>
 <body text="white" style="background-color:#121212;">

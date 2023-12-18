@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs
+3,SM-A405FN,1700823728833,2023-11-24_11-02-08,Europe/Zurich,android,1.18.1,a768d033-1c49-4d97-9242-8a9f2f78ff74,Accelerometer|Gravity|Gyroscope|Orientation|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,0|0|0|0||0|0|0

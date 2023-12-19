@@ -5,6 +5,7 @@
 * Once the folder is downloaded, unzip it and paste it in your documents (or any other place where you have write and read files permissions).
 * Right click on the "Power Lab.exe" file and "create a shortcut" on your desktop.
 * If you want to test the app with the demo data, you can use data from the "Data_demo" folder
+* <strong> New </strong> You can try to install the app with the setup wizard.<a href="https://github.com/Barbullon/PowerLab_app/releases">click here </a> Then you just have to open the .exe file and follow the setup steps.
 
 You are now good to go !!
 

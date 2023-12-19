@@ -1,4 +1,4 @@
-# 📌 Power Lab 
+# <img src="https://github.com/Barbullon/PowerLab_app/blob/main/PowerLabApp_Windows/_internal/app_files/icon.png" width="30">  Power Lab 
 
 ## 💻 Download the App
 * <strong> New ! </strong> You can now install the app with the setup wizard ! <strong> <a href="https://github.com/Barbullon/PowerLab_app/releases/tag/v0.1.1-setup"> click here </a> </strong> to download the app. Once downloaded, you just have to unzip the folder, open the .exe file and follow the setup steps.
